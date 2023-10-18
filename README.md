@@ -3,6 +3,5 @@
 
 ## Ronaldo Oliveira Costa
 ## Tópicos com maior afinidade
-1. HTML
-2. CSS
-Nível básico
+1. HTML (nível básico)
+2. CSS (nível básico)
